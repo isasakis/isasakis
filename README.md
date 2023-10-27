@@ -2,8 +2,6 @@
 
 Sou uma desenvolvedora front-end apaixonada pela capacidade transformadora da tecnologia no desenvolvimento pessoal, profissional, educacional e na saúde das pessoas, buscando constantemente maneiras de melhorar suas vidas, bem como contribuir para o avanço da sociedade como um todo. Minha jornada profissional é marcada pela liderança, comunicação e empatia, tenho quatro anos de experiência em desenvolvimento web, gestão de equipes e produtos.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isasakis&layout=compact)
-
 
 ## Tecnologias que eu uso no meu dia
 
