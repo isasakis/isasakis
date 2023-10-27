@@ -1,7 +1,6 @@
 ### Olá, eu sou a Isabella Sakis!
 
-- Eu estou trabalhando atualmente com desenvolvimento front-end, com ReactJS
-- Eu estou aprendendo atualmente sobre NextJS
+Sou uma desenvolvedora front-end apaixonada pela capacidade transformadora da tecnologia no desenvolvimento pessoal, profissional, educacional e na saúde das pessoas, buscando constantemente maneiras de melhorar suas vidas, bem como contribuir para o avanço da sociedade como um todo. Minha jornada profissional é marcada pela liderança, responsabilidade e empatia, tenho quatro anos de experiência em desenvolvimento web, gestão de equipes e produtos.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isasakis&layout=compact)
 
